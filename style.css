@@ -71,7 +71,11 @@
     }
     h1 {
       font-weight: 650;
-      margin-bottom: 20px;
+      margin-bottom: 20px;}
+   h1:hover{
+      color:white;
+   }
+          
       font-size: 22.5px;
     }
     .desc {
